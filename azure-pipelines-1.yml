@@ -14,4 +14,4 @@ steps:
   inputs:
     script: |
       javac  AddTwoNumbers2.java
-       AddTwoNumbers2
+      java  AddTwoNumbers2
